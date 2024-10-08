@@ -2,7 +2,17 @@
 "A directory website connecting moms with service providers. Businesses can sign up for paid/free memberships, create profiles, and receive leads from moms seeking services. The platform accommodates businesses directly or indirectly related to moms, providing an efficient lead-generation system."
 # MommyPages Directory Website
 
-![MommyPages Screenshot](./path_to_image.png)
+![image](https://github.com/user-attachments/assets/50732ba8-1de6-4132-b67e-848c800184f2)
+
+**MommyPages** is designed to empower moms by giving them a centralized hub for finding trusted services, while simultaneously providing businesses with an effective lead-generation tool. The responsive, user-friendly interface and secure login system ensure a seamless experience for both moms and service providers.
+
+## Project Overview
+
+![image](https://github.com/user-attachments/assets/7d645414-08b2-4859-b0a1-f20d4764b8f7)
+
+**MommyPages** is a comprehensive directory website built specifically to connect moms with service providers that cater to their unique needs. The platform supports a wide range of businesses, including those directly and indirectly related to moms, such as childcare, education, healthcare, fitness, and lifestyle services. By offering both free and paid membership plans, **MommyPages** ensures businesses of all sizes can benefit from an online presence and access to a targeted audience of moms actively seeking services.
+
+Moms can quickly search for providers using advanced filters and location-based searches, while businesses can easily create detailed profiles, generate leads, and respond to service requests directly through the platform. The platform’s foundation on the **Brilliant Directories** system allows for robust functionality, scalability, and ease of use, making it a powerful tool for both users and service providers.
 
 **MommyPages** is a powerful and user-friendly directory platform that empowers moms to connect with service providers tailored to their needs. Built using the robust **Brilliant Directories** platform, this website enables businesses related to moms (both directly and indirectly) to easily register, showcase their services, and generate valuable leads. Whether it's childcare, education, health, or lifestyle services, **MommyPages** is designed to serve as the ultimate hub for moms and businesses.
 
@@ -35,20 +45,18 @@
    - Secure member login areas for businesses and moms, allowing them to manage their accounts and interactions seamlessly.
    - Businesses can track lead responses, view analytics, and update their profiles.
 
-### 8. **SEO Optimized Listings**
-   - All business profiles and content are optimized for search engines, increasing visibility and traffic.
-   - The platform supports meta descriptions, keywords, and schema markup for improved SEO performance.
-
-### 9. **Responsive & Mobile-Friendly**
+### 8. **Responsive & Mobile-Friendly**
    - Fully responsive design ensures that the website functions flawlessly on all devices, from desktops to smartphones and tablets.
    - Moms can easily find services on the go using mobile-friendly features.
 
-### 10. **News & Updates Section**
+### 9. **News & Updates Section**
    - A dedicated section for moms to get the latest news, updates, tips, and articles related to mom-focused services and businesses.
 
-### 11. **Custom Widgets & Integrations**
+### 10. **Custom Widgets & Integrations**
    - Social media integrations and custom widgets allow businesses to link their external profiles, creating more engagement opportunities.
    - Third-party tools and widgets like maps, reviews, and chat plugins can be integrated for enhanced functionality.
+
+![Artboard 4 (9)](https://github.com/user-attachments/assets/133f7510-bb2d-4256-aa64-95919c24502f)
 
 ## Technologies Used
 
@@ -56,7 +64,6 @@
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: PHP, MySQL Database
 - **Responsive Framework**: Bootstrap
-- **SEO Features**: Schema Markup, Meta Tags, Keywords
 - **Lead Management**: Integrated CRM for tracking leads
 - **Payment Gateway Integration**: Secure payment options for paid membership plans
 
@@ -82,14 +89,6 @@
 - **Increase Visibility**: Enhanced search engine visibility and featured listings for better reach.
 - **Grow Your Business**: Expand your customer base by being listed in a trusted directory dedicated to moms.
 
-## Future Enhancements
-
-Here are a few future improvements planned for **MommyPages**:
-- **AI-Based Service Recommendations**: Implementing AI to recommend services based on user preferences and behavior.
-- **Event Listings**: Allowing businesses to post events such as workshops, webinars, and special offers.
-- **Ratings and Reviews**: Enabling moms to rate and review the services they’ve used, providing more trust and credibility to the platform.
-- **Mobile App Development**: A dedicated mobile app for even more convenient access to the directory.
-
 ## Contact Me
 
 I am **Sajid Jamil**, an experienced **Brilliant Directories** developer, passionate about building intuitive, lead-generating platforms that help businesses and users connect more effectively. If you are looking for an expert to develop a custom **Brilliant Directories** project or enhance your existing platform, I’d love to collaborate with you!
@@ -101,7 +100,10 @@ I specialize in building customized directory platforms using the **Brilliant Di
 
 Reach out to me today for a consultation or to hire me for your next directory project!
 
-**Contact Information**  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- LinkedIn: [LinkedIn Profile](
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+
+---
